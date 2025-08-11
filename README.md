@@ -1,2 +1,2 @@
-# Interactive Tic-Tac-Toe-Game-
+# Interactive Tic-Tac-Toe-Game
  The interface is interactive and user-friendly, allowing players to click on empty cells to place their marks (X or O). The game automatically switches turns, updates the game status to indicate which player's turn it is, and announces the winner or a draw when the game ends. It also usually includes a restart button to reset the game board for a new match. The project is built using web technologies—HTML for structure, CSS for styling, and JavaScript for game logic—making it easy to run in any modern browser without dependencies.
